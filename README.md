@@ -21,3 +21,4 @@ Some exercises use a small game theme to give them a goal and some context.
 ### Chapters
  
 - [ch00 - Introduction](ch00/README.md)
+- [ch01 - Variables, Types, and Operators](ch01/README.md)
