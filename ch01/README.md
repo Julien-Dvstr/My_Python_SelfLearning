@@ -6,6 +6,6 @@ Chapter 1, working with data: storing values in variables, recognizing the basic
  
 | File | What it's about |
 |---|---|
-|   |   |
+| `ex01_character_card.py` | First introduction to variables, types and F strings |
 
 [Back to main README](../README.md)
