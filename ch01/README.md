@@ -11,5 +11,7 @@ Chapter 1, working with data: storing values in variables, recognizing the basic
 | `ex03_damage.py` | First operations uses |
 | `ex04_shop_bug.py` | Find and fix bugs |
 | `ex05_play_time.py` | First use of % and // |
+| `ex06_scoreboard.py` | Fill in the blank code |
+| `ex07_coins.py` | More use of % and // |
 
 [Back to main README](../README.md)
