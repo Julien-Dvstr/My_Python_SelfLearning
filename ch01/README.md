@@ -18,6 +18,14 @@ The exercises also cover debugging and using arithmetic operations to solve smal
 | [ex08_debug_xp.py](ex08_debug_xp.py) | Inspect variables and expressions using the debugger |
 | [ex09_level_curve.py](ex09_level_curve.py) | Calculate player levels and display an XP progress bar |
 
+## Final Exercise
+
+[Chapter 01 - Character Creator](ch01_exam/README.md)
+
+For the final exercise, I created a small RPG character creator that calculates character stats based on the player's strength.
+
+I also worked on making the terminal interface adjust to the length of the character's name and title instead of using a fixed width.
+
 ## Concepts Covered
 
 - Variables and constants
@@ -26,7 +34,8 @@ The exercises also cover debugging and using arithmetic operations to solve smal
 - Integer division (`//`) and modulo (`%`)
 - Type conversion with `int()` and `float()`
 - User input with `input()`
-- String formatting with f-strings
+- String formatting and alignment with f-strings
+- String multiplication and concatenation
 - Debugging and inspecting variables
 
 ## Notes
