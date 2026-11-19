@@ -1,18 +1,42 @@
-# CH00_Exam
+# ch00 - Final Exercise
 
-## Instruction
+## The Lord of the Strings
 
-You will create the home screen for a fictional game of your own invention and publish it properly on GitHub. 
+For my first end-of-chapter exercise, I created a title screen for a fictional text-based game called **The Lord of the Strings**.
 
-This is the first project in your portfolio.
+It's a small parody with a programming theme, where a hobbit must destroy an evil String before it causes a fatal error.
 
-### Required Features
+The project is a static title screen, not a playable game.
 
-- A made-up game title framed in ASCII art.
-- A short introductory text (at least 3 lines) that presents the story.
-- A menu with at least 3 numbered options.
-- A credits line at the bottom: "Created by ... - 2026."
-- Only print statements and comments.
-- A comment at the top of the file describes the program.
+## Instructions
 
-[Previous README](../README.md)
+Create the home screen for a fictional game and publish it on GitHub.
+
+The program must include:
+
+- A fictional game title displayed with ASCII art.
+- A short introduction of at least three lines.
+- A menu with at least three numbered options.
+- A credits line at the bottom.
+- A comment at the top describing the program.
+
+Only `print()` statements and comments are allowed.
+
+## My Solution
+
+[View exam00_title.py](exam00_title.py)
+
+I used multiple `print()` statements to display the title, story, menu, and credits.
+
+The main challenge was organizing the text to make the result readable in the terminal while staying within the exercise's restrictions.
+
+## What I Practiced
+
+- Using `print()` to display text.
+- Formatting a simple terminal interface.
+- Writing multiline strings.
+- Organizing a script with the concepts covered in this chapter.
+
+---
+
+[Back to Chapter 00](../README.md)
