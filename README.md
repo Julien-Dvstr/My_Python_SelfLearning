@@ -34,7 +34,7 @@ You'll need Python 3 installed to run the scripts.
 Clone the repository:
 
 ```bash
-git clone https://github.com/Julien-Dvstr/My_Python_SelfLearning.git
+git clone https://github.com/SplendouDev/My_Python_SelfLearning.git
 cd My_Python_SelfLearning
 ```
 
